@@ -1,0 +1,18 @@
+[
+    {
+        "package": "spatialsampler",
+        "url": "https://github.com/spatialworks/spatialsampler"
+    },
+    {
+        "package": "mozambique",
+        "url": "https://github.com/spatialworks/mozambique"
+    },
+    {
+        "package": "liberia",
+        "url": "https://github.com/spatialworks/liberia"
+    },
+    {
+        "package": "malawi",
+        "url": "https://github.com/spatialworks/malawi"
+    }
+]
